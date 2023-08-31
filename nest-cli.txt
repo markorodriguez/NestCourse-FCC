@@ -12,7 +12,7 @@ Commands
     npm run start:dev / yarn start:dev
     nest generate controller / nest g co
     nest generate service / nest g s
-    nest generate modue <name> / nest g mo
+    nest generate module <name> / nest g mo
     nest g class address/dto/create-address.dto --no-spec
 
 Decorators
@@ -32,4 +32,8 @@ Imports
     import { Body, Controller, Get, Param, Post } from '@nestjs/common';
     import { IsNumber, IsString } from 'class-validator'; - Validation
 
-https://youtu.be/GHTA143_b-s?t=882
+Concepts
+    Service: holds business logic
+    Pipes: functions that transform the data
+
+https://youtu.be/GHTA143_b-s?t=3349
