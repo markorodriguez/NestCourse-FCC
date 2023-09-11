@@ -36,4 +36,4 @@ Concepts
     Service: holds business logic
     Pipes: functions that transform the data
 
-https://youtu.be/GHTA143_b-s?t=3349
+https://youtu.be/GHTA143_b-s?t=4172
