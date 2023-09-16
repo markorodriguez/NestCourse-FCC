@@ -36,4 +36,6 @@ Concepts
     Service: holds business logic
     Pipes: functions that transform the data
 
+Every class the needs dependency injection must have @Injectable decorator
+
 https://youtu.be/GHTA143_b-s?t=4172
